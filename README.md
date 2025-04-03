@@ -5,7 +5,7 @@ Discord Webhook API Wrapper For Fivem
 ```lua
 local dc_log = webHook:create("https://discord.com/api/webhooks/*")
 :content("* discord webhook module")
-:avater()
+:avatar()
     :name("kazuma")
     :url("https://i.pinimg.com/736x/ff/1b/24/ff1b245dcefdcb7c0c9c0f26f5d48777.jpg")
 :embed("What.av")
