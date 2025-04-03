@@ -20,7 +20,7 @@ function webHook:content(text)
     return self
 end
 
-function webHook:avater()
+function webHook:avatar()
     local fn = {}
 
     function fn:name(a)
